@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @apply
+
+@layer
+
+order of these confs and the default confs
+
+to generate the default confs, cmd => npx tailwindcss init filename --full
+to generate the postcss file, npx tailwindcss init -p    */
